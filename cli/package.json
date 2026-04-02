@@ -2,6 +2,7 @@
   "name": "@lacymorrow/footage-vault-cli",
   "version": "0.1.0",
   "description": "CLI tool for Footage Vault - scan, watch, and search video footage",
+  "type": "module",
   "bin": {
     "vault": "./dist/index.js"
   },
